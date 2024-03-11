@@ -1164,7 +1164,7 @@ Global
 		{1776ABF9-BD43-37DD-8D96-8A9D5E958096} = {C2F57ECE-B26F-39D8-BDA7-C1D40BD8F180}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A35D8FFA-8DC4-4836-A29F-68DC66DB5B0E}
+		SolutionGuid = {9109CD08-11BA-4D73-96D9-2B98AF7B47C4}
 	EndGlobalSection
 	GlobalSection(ddbf523f-7eb6-4887-bd51-85a714ff87eb) = preSolution
 		AvailablePlatforms = Win64;IOS
